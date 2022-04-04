@@ -1,7 +1,7 @@
 # Effective Swift 한글 요약본
 <p align="center"><img width=400 src="https://booth.pximg.net/6659d72b-bc28-4e49-8381-0125328aa64a/i/3755447/80ef290a-443a-41f3-a464-b438989bb7a0_base_resized.jpg"></p>
 
-💡 yjmajo 저자의 허락하에 작성된 Effective Swift (일본어) 책의 한글 요약본 입니다.
+💡 yjmajo 저자의 허가를 얻어 작성된 Effective Swift (일본어) 책의 한글 요약본 입니다.
 > 보다 자세한 정보는 책을 직접 구매하시는걸 추천드립니다.   
 > 페이지에 대한 피드백은 언제든지 환영합니다.   
 > 사용시에 출처만 꼭 밝혀주시면 감사합니다.   
@@ -256,7 +256,6 @@ Kakao Open Chat - iOS 개발 Q&A func7님
 본 책에 대한 피드백은 하단 페이지에 문의해주시기 바랍니다.
 > [Discussions · CSBooks/EffectiveSwiftBookSamples](https://github.com/CSBooks/EffectiveSwiftBookSamples/discussions)
 
-  
 
 ### Sample PDF
 Sample PDF를 다운로드 할 수 있습니다. 
@@ -265,7 +264,9 @@ Sample PDF를 다운로드 할 수 있습니다.
 > [샘플 PDF 다운로드](https://booth.pm/downloadables/2421542)
 
   
-
 ### 샘플 코드
  수정이 필요한대로 깃허브 레포지토리에 추가할 예정입니다.
 > [저자의 샘플 코드](https://github.com/CSBooks/EffectiveSwiftBookSamples)
+
+---
+요약본에 대한 저작권은 @Glen에게 있으며, 첨부된 이미지 및 코드는 @yimajo 저자에게 있음을 알립니다.
