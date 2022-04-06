@@ -142,7 +142,7 @@ e. 기타 용어
 
 
 ---
-### [제 3장 - 타입 명명법] (https://476c656e.notion.site/3-cdaebd62e19a455298cf2b09851431ce)
+### [제 3장 - 타입 명명법](https://476c656e.notion.site/3-cdaebd62e19a455298cf2b09851431ce)
 3.1. enum에 네임스페이스 (Namespace)를 검토해보자.
 
 3.2. 기능을 나타내는 프로토콜은 동사의 접미사에 able, ible을 붙인다.
